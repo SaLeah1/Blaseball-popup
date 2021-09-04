@@ -12,4 +12,4 @@ Launch the python script, wait a bit then launch the ahk file
 after that, you should get a barage of popups that interupt your typing and regular computer needs with blaseball updates, just like you wanted!
 
 Ill be honestly impressed if you can get this to run on your computer as I dont know how to code and essentially brute forced two coding languages to talk
-Idealy, however, it will look like this in the end: https://youtu.be/pU22giYbSgU
+Idealy, however, it will look like this in the end: https://youtu.be/earq8c5XJuI
