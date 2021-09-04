@@ -1,0 +1,15 @@
+Hi, this 'program' is held togeather by nothing more than my own sheer willpower
+a few things to note to get this to work
+1. the program autohotkey must be installed
+2. python must have both pip and sseclient installed
+
+after all that is done, replace the current sibr replay with the sibr replay you want the program to run into the python script file
+and change the file location of "windowsvista.txt" in ahk to the path it is on your computer 
+(note: "windowsvista.txt" will not appear until after you have run the python file once)
+
+Launch the python script, wait a bit then launch the ahk file
+(ahk is needy and sometimes decided it needs a bit of time before its willing to read a file)
+after that, you should get a barage of popups that interupt your typing and regular computer needs with blaseball updates, just like you wanted!
+
+Ill be honestly impressed if you can get this to run on your computer as I dont know how to code and essentially brute forced two coding languages to talk
+Idealy, however, it will look like this in the end: https://youtu.be/pU22giYbSgU
