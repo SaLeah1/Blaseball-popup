@@ -1,7 +1,6 @@
 from sseclient import SSEClient
 import json
 import time
-windowsvista = open("windowsvista.txt",'w')
 while True:
     try:
         stream = SSEClient('https://api.sibr.dev/replay/v1/replay?from=2020-08-30T01:00:08.17Z')
@@ -17,8 +16,7 @@ while True:
             games = json.loads(str(message))['value']['games']['schedule']
             for game in games:
                 feed = game['lastUpdate']
-                windowsvista.write(feed)
-                windowsvista.write('\n')
+                print(feed\n)
     except Exception as error:
         print(error)
         # Wait five minutes if the stream breaks
